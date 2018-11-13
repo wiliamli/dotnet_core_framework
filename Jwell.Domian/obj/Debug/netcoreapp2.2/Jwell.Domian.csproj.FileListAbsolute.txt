@@ -1,0 +1,12 @@
+e:\Project\Jwell.FrameworkCore\Jwell.Domian\bin\Debug\netcoreapp2.2\Jwell.Domian.deps.json
+e:\Project\Jwell.FrameworkCore\Jwell.Domian\bin\Debug\netcoreapp2.2\Jwell.Domian.dll
+e:\Project\Jwell.FrameworkCore\Jwell.Domian\bin\Debug\netcoreapp2.2\Jwell.Domian.pdb
+e:\Project\Jwell.FrameworkCore\Jwell.Domian\bin\Debug\netcoreapp2.2\Jwell.Framework.dll
+e:\Project\Jwell.FrameworkCore\Jwell.Domian\bin\Debug\netcoreapp2.2\Jwell.Framework.pdb
+e:\Project\Jwell.FrameworkCore\Jwell.Domian\obj\Debug\netcoreapp2.2\Jwell.Domian.csprojAssemblyReference.cache
+e:\Project\Jwell.FrameworkCore\Jwell.Domian\obj\Debug\netcoreapp2.2\Jwell.Domian.csproj.CoreCompileInputs.cache
+e:\Project\Jwell.FrameworkCore\Jwell.Domian\obj\Debug\netcoreapp2.2\Jwell.Domian.AssemblyInfoInputs.cache
+e:\Project\Jwell.FrameworkCore\Jwell.Domian\obj\Debug\netcoreapp2.2\Jwell.Domian.AssemblyInfo.cs
+e:\Project\Jwell.FrameworkCore\Jwell.Domian\obj\Debug\netcoreapp2.2\Jwell.Domian.csproj.CopyComplete
+e:\Project\Jwell.FrameworkCore\Jwell.Domian\obj\Debug\netcoreapp2.2\Jwell.Domian.dll
+e:\Project\Jwell.FrameworkCore\Jwell.Domian\obj\Debug\netcoreapp2.2\Jwell.Domian.pdb

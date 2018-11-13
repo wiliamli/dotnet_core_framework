@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Jwell.Web</name>
+    </assembly>
+    <members>
+        <member name="M:Jwell.Web.Controllers.HomeController.Error">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Jwell.Web.Controllers.TestController">
+            <summary>
+            示例代码
+            </summary>
+        </member>
+        <member name="M:Jwell.Web.Controllers.TestController.TransactionTest">
+            <summary>
+            事务测试
+            </summary>
+            <returns>标准Json返回格式,返回值为Data</returns>
+        </member>
+        <member name="M:Jwell.Web.Controllers.TestController.PostStudent(Jwell.Application.Dtos.StudentDto)">
+            <summary>
+            添加测试
+            </summary>
+            <param name="dto">StudentDto</param>
+            <returns>StudentDto</returns>
+        </member>
+        <member name="M:Jwell.Web.Controllers.TestController.GetStudentByPage(Jwell.Framework.Paging.PageParam)">
+            <summary>
+            分页测试
+            </summary>
+            <param name="pageParam"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

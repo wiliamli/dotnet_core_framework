@@ -1,0 +1,9 @@
+e:\Project\Jwell.FrameworkCore\Jwell.Framework\bin\Debug\netcoreapp2.2\Jwell.Framework.deps.json
+e:\Project\Jwell.FrameworkCore\Jwell.Framework\bin\Debug\netcoreapp2.2\Jwell.Framework.dll
+e:\Project\Jwell.FrameworkCore\Jwell.Framework\bin\Debug\netcoreapp2.2\Jwell.Framework.pdb
+e:\Project\Jwell.FrameworkCore\Jwell.Framework\obj\Debug\netcoreapp2.2\Jwell.Framework.csprojAssemblyReference.cache
+e:\Project\Jwell.FrameworkCore\Jwell.Framework\obj\Debug\netcoreapp2.2\Jwell.Framework.csproj.CoreCompileInputs.cache
+e:\Project\Jwell.FrameworkCore\Jwell.Framework\obj\Debug\netcoreapp2.2\Jwell.Framework.AssemblyInfoInputs.cache
+e:\Project\Jwell.FrameworkCore\Jwell.Framework\obj\Debug\netcoreapp2.2\Jwell.Framework.AssemblyInfo.cs
+e:\Project\Jwell.FrameworkCore\Jwell.Framework\obj\Debug\netcoreapp2.2\Jwell.Framework.dll
+e:\Project\Jwell.FrameworkCore\Jwell.Framework\obj\Debug\netcoreapp2.2\Jwell.Framework.pdb

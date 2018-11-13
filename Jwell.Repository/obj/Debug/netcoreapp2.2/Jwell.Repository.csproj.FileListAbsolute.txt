@@ -1,0 +1,16 @@
+e:\Project\Jwell.FrameworkCore\Jwell.Repository\bin\Debug\netcoreapp2.2\Jwell.Repository.deps.json
+e:\Project\Jwell.FrameworkCore\Jwell.Repository\bin\Debug\netcoreapp2.2\Jwell.Repository.dll
+e:\Project\Jwell.FrameworkCore\Jwell.Repository\bin\Debug\netcoreapp2.2\Jwell.Repository.pdb
+e:\Project\Jwell.FrameworkCore\Jwell.Repository\bin\Debug\netcoreapp2.2\Jwell.Domian.dll
+e:\Project\Jwell.FrameworkCore\Jwell.Repository\bin\Debug\netcoreapp2.2\Jwell.Framework.dll
+e:\Project\Jwell.FrameworkCore\Jwell.Repository\bin\Debug\netcoreapp2.2\Jwell.Modules.EFCore.dll
+e:\Project\Jwell.FrameworkCore\Jwell.Repository\bin\Debug\netcoreapp2.2\Jwell.Domian.pdb
+e:\Project\Jwell.FrameworkCore\Jwell.Repository\bin\Debug\netcoreapp2.2\Jwell.Framework.pdb
+e:\Project\Jwell.FrameworkCore\Jwell.Repository\bin\Debug\netcoreapp2.2\Jwell.Modules.EFCore.pdb
+e:\Project\Jwell.FrameworkCore\Jwell.Repository\obj\Debug\netcoreapp2.2\Jwell.Repository.csprojAssemblyReference.cache
+e:\Project\Jwell.FrameworkCore\Jwell.Repository\obj\Debug\netcoreapp2.2\Jwell.Repository.csproj.CoreCompileInputs.cache
+e:\Project\Jwell.FrameworkCore\Jwell.Repository\obj\Debug\netcoreapp2.2\Jwell.Repository.AssemblyInfoInputs.cache
+e:\Project\Jwell.FrameworkCore\Jwell.Repository\obj\Debug\netcoreapp2.2\Jwell.Repository.AssemblyInfo.cs
+e:\Project\Jwell.FrameworkCore\Jwell.Repository\obj\Debug\netcoreapp2.2\Jwell.Repository.csproj.CopyComplete
+e:\Project\Jwell.FrameworkCore\Jwell.Repository\obj\Debug\netcoreapp2.2\Jwell.Repository.dll
+e:\Project\Jwell.FrameworkCore\Jwell.Repository\obj\Debug\netcoreapp2.2\Jwell.Repository.pdb

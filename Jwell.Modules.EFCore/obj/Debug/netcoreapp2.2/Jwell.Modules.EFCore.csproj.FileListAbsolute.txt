@@ -1,0 +1,12 @@
+e:\Project\Jwell.FrameworkCore\Jwell.Modules.EFCore\bin\Debug\netcoreapp2.2\Jwell.Modules.EFCore.deps.json
+e:\Project\Jwell.FrameworkCore\Jwell.Modules.EFCore\bin\Debug\netcoreapp2.2\Jwell.Modules.EFCore.dll
+e:\Project\Jwell.FrameworkCore\Jwell.Modules.EFCore\bin\Debug\netcoreapp2.2\Jwell.Modules.EFCore.pdb
+e:\Project\Jwell.FrameworkCore\Jwell.Modules.EFCore\bin\Debug\netcoreapp2.2\Jwell.Framework.dll
+e:\Project\Jwell.FrameworkCore\Jwell.Modules.EFCore\bin\Debug\netcoreapp2.2\Jwell.Framework.pdb
+e:\Project\Jwell.FrameworkCore\Jwell.Modules.EFCore\obj\Debug\netcoreapp2.2\Jwell.Modules.EFCore.csprojAssemblyReference.cache
+e:\Project\Jwell.FrameworkCore\Jwell.Modules.EFCore\obj\Debug\netcoreapp2.2\Jwell.Modules.EFCore.csproj.CoreCompileInputs.cache
+e:\Project\Jwell.FrameworkCore\Jwell.Modules.EFCore\obj\Debug\netcoreapp2.2\Jwell.Modules.EFCore.AssemblyInfoInputs.cache
+e:\Project\Jwell.FrameworkCore\Jwell.Modules.EFCore\obj\Debug\netcoreapp2.2\Jwell.Modules.EFCore.AssemblyInfo.cs
+e:\Project\Jwell.FrameworkCore\Jwell.Modules.EFCore\obj\Debug\netcoreapp2.2\Jwell.Modules.EFCore.csproj.CopyComplete
+e:\Project\Jwell.FrameworkCore\Jwell.Modules.EFCore\obj\Debug\netcoreapp2.2\Jwell.Modules.EFCore.dll
+e:\Project\Jwell.FrameworkCore\Jwell.Modules.EFCore\obj\Debug\netcoreapp2.2\Jwell.Modules.EFCore.pdb

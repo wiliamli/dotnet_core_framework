@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\JwellWeb.xml</DocumentationFile>
+    <AspNetCoreHostingModel>inprocess</AspNetCoreHostingModel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <NoWarn>1701;1702;1705;1591</NoWarn>
+    <DocumentationFile>E:\work\Jwell\projects\Jwell.AspNetCore.Sample\Jwell.Web\bin\Debug\netcoreapp2.2\JwellWeb.xml</DocumentationFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="AspectCore.Extensions.Autofac" Version="1.0.1"/>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.3.0"/>
+    <PackageReference Include="Microsoft.AspNetCore.App"/>
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0-preview2-35497" PrivateAssets="All"/>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.0-preview2-35497"/>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="3.0.0"/>
+    <PackageReference Include="Microsoft.Extensions.PlatformAbstractions" Version="1.1.0"/>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Jwell.Application\Jwell.Application.csproj"/>
+    <ProjectReference Include="..\Jwell.Framework\Jwell.Framework.csproj"/>
+  </ItemGroup>
+</Project>
